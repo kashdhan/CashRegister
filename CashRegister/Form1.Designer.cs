@@ -219,7 +219,7 @@
             // 
             this.outputLabel.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.outputLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.outputLabel.Font = new System.Drawing.Font("Courier10 BT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.outputLabel.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputLabel.Location = new System.Drawing.Point(369, 129);
             this.outputLabel.Name = "outputLabel";
             this.outputLabel.Size = new System.Drawing.Size(322, 423);
